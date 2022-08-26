@@ -1,0 +1,8 @@
+board {
+    border: 3px;
+    border-color: cadetblue;
+    border-radius: 3px;
+    height: 60%;
+    min-width: fit-content;
+    width: 80%;
+}
