@@ -1,14 +1,13 @@
 "use-strict";
 
 import './App.css';
-import BoardGame from './BoardGame.react';
+import BoardGame from './board_game/BoardGame.react';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <BoardGame></BoardGame>
-
+        <BoardGame />
       </header>
     </div>
   );
